@@ -1,0 +1,27 @@
+#header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#header-text {
+  width: 290px;
+  font-size: 24px;
+}
+#header-p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+p {
+  width: 297px;
+  color: #00000099;
+}
+#div-video {
+  height: 300px;
+  width: 300px;
+}
